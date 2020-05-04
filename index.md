@@ -9,7 +9,7 @@ If you’re here, you may already know that **#FAB100** isn’t just any beer. B
 - ….a **splendiferous example** of an **unconventional style** of beer: Strawberry Milkshake New England IPAs (🍓🎂🍺). It’s basically a strawberry cake transmogrified into fizzy beer form, and it’s fantastic. We’re happy so many beer lovers out there have taken the time to express the same! Thanks, y'all!
 - ...a **100-day anniversary beer** for us here at FAB! Sure, turns out we started a brewing company just in time for a pandemic, but, hey, we’ve made some good beer, and we’re proud of our work. We’re also proud of the artists we work with, and just look at that can art! The **#FAB100** can is rocking the work of Andy Jacob ([@soulkontroller](https://www.instagram.com/soulkontroller/)) and Septic ([@septictheoutlaw](https://www.instagram.com/septictheoutlaw/)) by the way - much love, and beware the Shoggoth 👾.
 
-![fab%20rems/fab100_bday_morn.jpg](fab%20rems/fab100_bday_morn.jpg)
+![fab-rems/fab100_bday_morn.jpg](fab-rems/fab100_bday_morn.jpg)
 
 Happy anniversary to us! (That's real strawberry cake, fyi.)
 
