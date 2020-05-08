@@ -1,4 +1,4 @@
-# fab-rems
+# fabrems
 
 ## **It started with #FAB100.**
 
@@ -9,17 +9,17 @@ If you’re here, you may already know that **#FAB100** isn’t just any beer. B
 - ….a **splendiferous example** of an **unconventional style** of beer: Strawberry Milkshake New England IPAs (🍓🎂🍺). It’s basically a strawberry cake transmogrified into fizzy beer form, and it’s fantastic. We’re happy so many beer lovers out there have taken the time to express the same! Thanks, y'all!
 - ...a **100-day anniversary beer** for us here at FAB! Sure, turns out we started a brewing company just in time for a pandemic, but, hey, we’ve made some good beer, and we’re proud of our work. We’re also proud of the artists we work with, and just look at that can art! The **#FAB100** can is rocking the work of Andy Jacob ([@soulkontroller](https://www.instagram.com/soulkontroller/)) and Septic ([@septictheoutlaw](https://www.instagram.com/septictheoutlaw/)) by the way - much love, and beware the Shoggoth 👾.
 
-![fab-rems/fab100_bday_morn.jpg](fab-rems/fab100_bday_morn.jpg)
+![fabrems%20a53e0bb23a9c4ebf8a4a451fd47ed14a/fab100_bday_morn.jpg](fabrems%20a53e0bb23a9c4ebf8a4a451fd47ed14a/fab100_bday_morn.jpg)
 
 Happy anniversary to us! (That's real strawberry cake, fyi.)
 
 - ...a **full-on COVID-19 relief effort engine**. Ill-content to sit by and do nothing while medical workers put themselves at risk to tackle COVID-19, FAB partnered with **[Artisan’s Asylum](https://artisansasylum.com/)** - whose makers have come together to address the lack of needed medical supplies - and pledged **#FAB100’s** profits to their cause. Already, sales from **#FAB100** raised **$15,000** for Artisan’s, helping to ensure the continuance of their incredibly impressive PPE manufacturing efforts.
 
-[Check out Artisan's makers at work](fab%20rems/Check%20out%20Artisan%20s%20makers%20at%20work.csv)
+[Check out Artisan's makers at work](fabrems%20a53e0bb23a9c4ebf8a4a451fd47ed14a/Check%20out%20Artisan%20s%20makers%20at%20work%208ac9d1f74e7f4b938c80a6ffb8a8b9d3.csv)
 
 In sum, we think **#FAB100** **has been a** **true success**! A **win-win-win**, really: a great beer benefiting an important mission while being sold through local businesses during a trying time. And, of course, this is all made possible by people like **YOU**, who have been buying and enjoying our beer. So hey, thanks!
 
-![fab%20rems/sam_thanks.gif](fab%20rems/sam_thanks.gif)
+![fabrems%20a53e0bb23a9c4ebf8a4a451fd47ed14a/sam_thanks.gif](fabrems%20a53e0bb23a9c4ebf8a4a451fd47ed14a/sam_thanks.gif)
 
 ## **Which brings us to #FAB200.**
 
