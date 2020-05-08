@@ -9,7 +9,7 @@ If you’re here, you may already know that **#FAB100** isn’t just any beer. B
 - ….a **splendiferous example** of an **unconventional style** of beer: Strawberry Milkshake New England IPAs (🍓🎂🍺). It’s basically a strawberry cake transmogrified into fizzy beer form, and it’s fantastic. We’re happy so many beer lovers out there have taken the time to express the same! Thanks, y'all!
 - ...a **100-day anniversary beer** for us here at FAB! Sure, turns out we started a brewing company just in time for a pandemic, but, hey, we’ve made some good beer, and we’re proud of our work. We’re also proud of the artists we work with, and just look at that can art! The **#FAB100** can is rocking the work of Andy Jacob ([@soulkontroller](https://www.instagram.com/soulkontroller/)) and Septic ([@septictheoutlaw](https://www.instagram.com/septictheoutlaw/)) by the way - much love, and beware the Shoggoth 👾.
 
-![Happy 100 Day Anniversary to Us!](https://github.com/fab-rems/fab-rems.github.io/_assets/upfront/fab100_bday.JPG)
+![Happy 100 Day Anniversary to Us!](https://github.com/fab-rems/fab-rems.github.io/_assets/upfront/fab100_bday.JPG?raw=true)
 
 Happy anniversary to us! (That's real strawberry cake, fyi.)
 
@@ -17,7 +17,7 @@ Happy anniversary to us! (That's real strawberry cake, fyi.)
 
 In sum, we think **#FAB100** **has been a** **true success**! A **win-win-win**, really: a great beer benefiting an important mission while being sold through local businesses during a trying time. And, of course, this is all made possible by people like **YOU**, who have been buying and enjoying our beer. So hey, thanks!
 
-![Hey, thanks.](https://github.com/fab-rems/fab-rems.github.io/_assets/upfront/samthanks.gif)
+![Hey, thanks.](https://github.com/fab-rems/fab-rems.github.io/_assets/upfront/samthanks.gif?raw=true)
 
 ## **Which brings us to #FAB200.**
 
